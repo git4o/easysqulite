@@ -1,2 +1,0 @@
-# easysqulite
-## TEST
