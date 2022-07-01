@@ -1,7 +1,7 @@
 # Easy Squlite
 A easy version of squlite for begginers
 # Documentation
-* = Requred Arguments
+# * = Requred Arguments
 # Key
 # !! Don't type the "*" !!
 e.g. connect(databasename) *
